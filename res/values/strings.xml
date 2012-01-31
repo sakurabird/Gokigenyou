@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">お嬢様言葉まっしゅ</string>
+    <string name="AlertDialog_Title">お嬢様言葉まっしゅについて</string>
+    <string name="AlertDialog_Message">当アプリはSimejiやiwnnやATOKなどマッシュルームアプリに対応した
+        日本語入力システムから、使用出来る拡張機能のアプリです。\n
+        上記日本語入力システムからマッシュルームのアイコンをクリックしますと、インストールされたマッシュルームアプリ
+        が一覧で表示されます。\n
+        その中から「お嬢様言葉まっしゅ」をクリックして当アプリを呼び出して下さい。\n\n
+        アプリ一覧から起動した場合にクリップボードにコピーできます。</string>
+    
+</resources>
