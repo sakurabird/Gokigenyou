@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* -----------------------------------------------
+
+default
+
+----------------------------------------------- */
+* {
+	color:#111111;
+	font-family: "メイリオ","Meiryo",verdana,"ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro",Osaka,"ＭＳ Ｐゴシック","MS PGothic",Sans-Serif;
+}
+.cf:before,.cf:after {content:"";display:table;}
+.cf:after {clear:both;}
+.cf {*zoom:1;}

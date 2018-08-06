@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* -----------------------------------------------
+
+frame
+
+----------------------------------------------- */
+.wapper{
+	width: 320px;
+	margin: 0 auto;
+}
+header{
+	position: relative;
+	height: 50px;
+	z-index:100;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7e308d), color-stop(98%,#420552)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #7e308d 0%,#420552 98%); /* Chrome10+,Safari5.1+ */
+	background: linear-gradient(to bottom,  #7e308d 0%,#420552 98%); /* W3C */
+	border-bottom:#2a052f solid 1px;
+}
+.gnav{
+	position: absolute;
+	top: 50px;
+	background:#7e208d;
+	width: 100%;
+	display: none;
+}
+.gnav ul li:last-child{
+	background: none;
+}
+.gnav ul li{
+	background: url(../images/bg_nav_line.gif) repeat-x 0 bottom;
+	background-size: 2px 2px;
+}
+.gnav ul li a{
+	background:url(../images/ico_link.png) no-repeat right 50%;
+	background-size: 33px 22px;
+	padding: 15px;
+	
+	color:#ffffff;
+	text-decoration: none;
+	display: block;
+}
+	

@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* -----------------------------------------------
+
+others
+
+----------------------------------------------- */
+.disc{
+	background:#ffffff;
+	margin: 20px 20px 20px 20px;
+	padding: 0 0 0 0;
+}
+.disc h3{
+	text-decoration: underline;
+}
+.disc h3{
+	text-decoration: underline;
+}
+.disc DL{
+	font-size: 93%;
+	line-height: 1.8em;
+}
+.contactTxt{
+	font-size: 93%;
+	line-height: 1.8em;
+}
+.contactTxt a{
+	color:#1111cc;
+	text-decoration: underline;
+}
+p.right {
+	text-align: right;
+	margin-bottom: 10px;
+}
